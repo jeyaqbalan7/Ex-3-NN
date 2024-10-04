@@ -1,5 +1,5 @@
-### ENTER YOUR NAME : ADHITHYARAM D
-### ENTER YOUR REGISTER NO : 212222230008 
+### ENTER YOUR NAME : Jeyabalan T
+### ENTER YOUR REGISTER NO : 212222240040
 ### EX. NO.3
 ### DATE:
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
